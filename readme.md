@@ -48,7 +48,6 @@
 To get a local copy up and running follow these simple example steps.
 
 ```
-$ git clone https://github.com/brunomestanza/ignite-react-native
 $ cd ignite-react-native/savepass
 $ expo install
 $ expo start
